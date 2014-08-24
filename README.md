@@ -13,6 +13,8 @@ In working directory two files are produced - TidySet1.txt and TidySet2.txt.
 TidySet2.txt represents the independent tidy data set with the 
              average of each variable for each activity and each subject
              each value is comma-separated.
+
+
 FUNCTION: DOALL
  0. Load "plyr" library for averages
  1. Read Activity Labels and Features
