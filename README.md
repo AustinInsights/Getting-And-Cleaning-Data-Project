@@ -51,18 +51,22 @@ of all mean() and std() varaibles by activity by subject ID
 
 
 FUNCTION: extract_mean_and_std
+
 Extracts columns with mean() and std() in feature names
 
 
 UTILITY FUNCTIONS  ###
 
 FUNCTION: trim
+
 Removes leading and trailing spaces in a given string x
 
 
 FUNCTION: removeparantheses
+
 Removes parantheses in a given string x
 
 
 FUNCTION: substituteunderscore
+
 Substritute hyphen with an underscore in a given string x
